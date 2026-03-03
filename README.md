@@ -1,6 +1,6 @@
 # Master's Thesis Figures
 
-This repository contains resources and scripts used to generate figures for my master's thesis. Below is the minimal structure for the included components.
+This repository contains resources and scripts used to generate figures for my master's thesis. 
 
 ## Repository Structure
 
