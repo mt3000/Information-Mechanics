@@ -2,7 +2,7 @@
 
 This repository contains resources and scripts used to generate figures for the following Master's thesis and publication.
 
-  The Mechanics of CNN Filtering with Rectification
+  The Mechanics of CNN Filtering with Rectification,
   Liam Frija-Altarac 2025
   
   [Thesis 2026](https://www.matthewtoews.com/thesis/Thesis_Liam_Frija-Altarac_2025.pdf "Arxiv")
