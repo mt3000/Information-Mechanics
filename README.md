@@ -4,7 +4,7 @@ This repository contains resources and scripts used to generate figures for the 
 
   The Mechanics of CNN Filtering with Rectification
   Liam Frija-Altarac 2025
-  [Thesis 2026]([https://arxiv.org/pdf/2512.24338](https://www.matthewtoews.com/thesis/Thesis_Liam_Frija-Altarac_2025.pdf) "Arxiv")
+  [Thesis 2026](https://arxiv.org/pdf/2512.24338](https://www.matthewtoews.com/thesis/Thesis_Liam_Frija-Altarac_2025.pdf "Arxiv")
 
   [Arxiv 2025](https://arxiv.org/pdf/2512.24338 "Arxiv")
 
